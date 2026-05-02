@@ -1,4 +1,4 @@
-# 🎬 SQL Data Analysis – Videoclub Database
+# 🎬 SQL Data Analysis – *Sakila* Database
 
 ## 📖 Descripción
 
@@ -119,7 +119,7 @@ En este proyecto se implementaron soluciones técnicas avanzadas para asegurar l
 ## 👨‍💻 Autor
 
 **Rodrigo Antúnez**  
-Economist & Data Analyst en formación con enfoque en análisis SQL y exploración de datos relacionales.
+Economist & Data Analyst en formación.
 
 🔗 GitHub: https://github.com/rgoantunez  
 🔗 Repositorio del proyecto: https://github.com/rgoantunez/advanced-sql-queries
